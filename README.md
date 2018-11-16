@@ -15,7 +15,7 @@ phpとmysqlをdockerで動かす
 1. mysqlのデータベース`test`
 
 ## データベース情報
-host： `mysql`
+host： `mysql`  
 user： `root`  
 password： `password`  
 
